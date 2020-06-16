@@ -5,6 +5,7 @@ Cash Memo desktop application software in CSharp
 
 1. Order
 2. Customer
-3. Invoie
+3. Invoice
 4. Ledgers
 5. Reports
+6. Bank record maintaince
